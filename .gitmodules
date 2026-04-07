@@ -1,0 +1,3 @@
+[submodule "exten/godot-cpp"]
+	path = exten/godot-cpp
+	url = gh:godotengine/godot-cpp
